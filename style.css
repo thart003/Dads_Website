@@ -1,0 +1,27 @@
+html {
+    margin: -10px;
+    padding: 0px;
+    scroll-behavior: smooth;
+  }
+  
+body {
+    /*background-color: #EEE8AA;*/
+    background-color: white;
+  }
+  
+h2 {
+    font-family: Lob;
+  }
+  
+a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  
+ul {
+    padding: 20px;
+    margin-top: 0px;
+  }
+#slide {
+    display: inline-block;
+}
