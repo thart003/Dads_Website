@@ -652,14 +652,14 @@ ul {
     padding: 0;
     text-align: center;
     height: 700px;
-    width: 1500px;
+    width: 100%;
   }
   
   .circles {
     position: absolute;
     top: 0%;
     left: 0%;
-    width: 1200px;
+    width: 100%;
   }
   
   .circles svg {
