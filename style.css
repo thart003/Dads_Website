@@ -64,7 +64,7 @@ ul {
   
   #bottomBar {
     position: relative;
-    background-color: black;
+    background-color:lightsalmon;
     margin: -10px;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -128,7 +128,9 @@ ul {
     margin-left: 200px;
     margin-bottom: 0px;
   }
-  
+  .middle{
+      background-color: black;
+  }
   .slideshow {
     margin-top: 200px;
     margin-bottom: 200px;
@@ -154,7 +156,9 @@ ul {
     font-family: Light;
     margin-left: 150px;
   }
-  
+  .indexer{
+      background-color:#FFFF33;
+  }
   .end2 {
     color: white;
     font-family: Thin;
