@@ -29,7 +29,9 @@ ul {
     width: 900px;
     height: 800px;
   }
-  
+.Htext{
+    color:antiquewhite;
+}  
   ul li a button {
     background-color: inherit;
     font-family: Display;
@@ -739,9 +741,10 @@ ul {
   }
   
   .contact-form {
-    position: absolute;
+    position: relative;
     top: 85%;
-    left: 30%;
+    left: 10%;
+    align-content:center;
   }
   
   .contact-title h2 {
