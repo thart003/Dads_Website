@@ -139,10 +139,13 @@ ul {
       background-color: black;
   }
   .slideshow {
+    position: relative;
     margin-top: 200px;
     margin-bottom: 200px;
-    margin-left: 210px;
-    margin-right: 180px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
     background-color: var(--main-bg-color);
   }
   
