@@ -71,7 +71,6 @@ ul {
     margin-top: 150px;
     text-align: center;
   }
-  
   #bottomBar div p {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -167,6 +166,7 @@ ul {
     color: white;
     font-family: Light;
     margin-left: 150px;
+    position: relative;
   }
   .indexer{
       background-color:#FFFF33;
@@ -176,12 +176,14 @@ ul {
     font-family: Thin;
     font-weight: bold;
     margin-left: 250px;
+    position: relative;
   }
   
   .end3 {
     color: white;
     font-family: Thin;
     margin-left: 250px;
+    position: relative;
   }
   
   .facebook {
