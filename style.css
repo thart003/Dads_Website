@@ -98,20 +98,20 @@ ul {
   
   .imageOne {
     margin-left: -151px;
-    margin-top: -100px;
+    margin-top: -16px;
     position: absolute;
   }
   
   .imageTwo {
     margin-left: -151px;
-    margin-top: 0px;
+    margin-top: -15px;
     
     position: absolute;
   }
   
   .imageThree {
     margin-left: -151px;
-    margin-top: -100px;
+    margin-top: -16px;
     position: absolute;
   }
   .ContactFooterImage{
@@ -162,6 +162,7 @@ ul {
     background-color: var(--alternate-bg-color);
     margin-bottom: 0px;
     width: 500px;
+    height: 300px;
   }
   
   .end1 {
