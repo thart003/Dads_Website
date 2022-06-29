@@ -125,12 +125,12 @@ ul {
       margin-right: auto;
   }
   .header {
-    display: inline-block;
+    display: relative;
     font-family: Display;
     padding: 10px;
     margin-left: 50px;
     margin-bottom: 0px;
-    text-align: left;
+    text-align: center;
   }
   .middle{
       background-color: black;
@@ -154,6 +154,7 @@ ul {
     font-family: Light;
     color: black;
     font-size:large;
+    text-align: center;
   }
   
   .textSection {
