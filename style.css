@@ -376,16 +376,20 @@ ul {
     border-style: solid;
     cursor: pointer;
   }
-  
+  .DadImage{
+      position: relative;
+      margin: auto;
+      text-align: center;
+      left:-180px;
+      padding:1%;
+  }
   .introCon {
     margin-top: 150px;
     margin-bottom: 150px;
-    margin-left: 125px;
-    margin-right: 100px;
-    padding: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    width: 80%;
+    text-align: center;
+    
+    
+    width: 100%;
     background-color: var(--main-bg-color);
     text-align: center;
     border-style: solid;
