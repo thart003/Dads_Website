@@ -159,8 +159,7 @@ ul {
   
   .textSection {
     position:relative;
-    left: -200px;
-    text-align: left;
+    text-align: center;
     background-color: var(--alternate-bg-color);
     margin-bottom: 0px;
     width: 500px;
@@ -380,7 +379,6 @@ ul {
       position: relative;
       margin: auto;
       text-align: center;
-      left:-180px;
       padding:1%;
   }
   .introCon {
