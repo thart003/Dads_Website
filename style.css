@@ -128,8 +128,9 @@ ul {
     display: inline-block;
     font-family: Display;
     padding: 10px;
-    margin-left: 200px;
+    margin-left: 50px;
     margin-bottom: 0px;
+    text-align: left;
   }
   .middle{
       background-color: black;
